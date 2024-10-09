@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Red Panda Plushy",
+        "description": "Comes as a set",
+        "price": 29.99,
+        "image": "redpanda.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dog with Drumstick",
+        "description": "Drumstick included(maybe)",
+        "price": 39.99,
+        "image": "dog.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Piggy on Bread Cushion",
+        "description": "Bread Sold Separately",
+        "price": 19.99,
+        "image": "pig.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Otter",
+        "description": "Buy Him",
+        "price": 29.99,
+        "image": "otter.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Penguins",
+        "description": "or are they ducks..",
+        "price": 39.99,
+        "image": "penguins.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Who Knows",
+        "description": "His glasses are cool",
+        "price": 39.99,
+        "image": "cows.jpg"
+    }
+]
