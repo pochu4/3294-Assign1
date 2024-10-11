@@ -3,7 +3,10 @@ export default {
   content: ["./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",],
   theme: {
-    extend: {},
+    // MAKE THIS WORK LATER
+    extend: {
+      poppins: ['Poppins', 'sans-serif'],
+    },
   },
   plugins: [],
 }

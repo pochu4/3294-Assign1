@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "name": "Piggy on Bread Cushion",
+        "name": "Piggy on Bread",
         "description": "Bread Sold Separately",
         "price": 19.99,
         "image": "src/assets/img/pig.jpg"
