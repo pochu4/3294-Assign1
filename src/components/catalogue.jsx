@@ -19,7 +19,7 @@ function Catalogue() {
     }
 
     return (
-        <div className="container m-auto w-8/12 flex flex-row flex-wrap justify-center items-center">
+        <div className="container m-auto w-8/12 flex flex-row flex-wrap justify-center items-center mt-4">
       { products.map( (singleProduct) => {
 
         return (
