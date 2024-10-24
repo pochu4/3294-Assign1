@@ -22,9 +22,9 @@ function Catalogue() {
         <div className="container m-auto w-8/12 flex flex-row flex-wrap justify-center items-center mt-4">
       { products.map( (singleProduct) => {
 
-        return (
+        
           <Card key={singleProduct.id} product={singleProduct} favourites={favs} handleFavClick={handleFavClick}/>
-        );
+        
 
       })}
     </div>
