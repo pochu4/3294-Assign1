@@ -34,7 +34,7 @@ Other than this, I found the assignment to be quite straightforward with creatin
 
 10/11/2024
 - Unfamiliarity with Tailwind
-- Trouble building responsive navbar which led me to watching a few youtube videos about how tailwind works (lol)
+- Trouble building responsive navbar which led me to watching a few youtube videos.
 
 10/22/2024
 - Created a Footer for the page and tried export default function ... instead of underneath the function to make the footer and export handled at the same time vs handled separately 
